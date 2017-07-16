@@ -122,7 +122,7 @@ public class MainAppForm extends javax.swing.JFrame {
 
         jLabel2.setText("Select a movie:");
 
-        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Spider-Man: Homecoming", "Despicable Me", "Wonder Woman", "Cars 3", "War for the Planet of the Apes", " " }));
+        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Spider-Man: Homecoming", "Despicable Me 3", "Wonder Woman", "Cars 3", "War for the Planet of the Apes", "It Comes at Night" }));
 
         DayCB.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" }));
         DayCB.addActionListener(new java.awt.event.ActionListener() {

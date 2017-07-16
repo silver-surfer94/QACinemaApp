@@ -191,11 +191,11 @@
         <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
           <StringArray count="6">
             <StringItem index="0" value="Spider-Man: Homecoming"/>
-            <StringItem index="1" value="Despicable Me"/>
+            <StringItem index="1" value="Despicable Me 3"/>
             <StringItem index="2" value="Wonder Woman"/>
             <StringItem index="3" value="Cars 3"/>
             <StringItem index="4" value="War for the Planet of the Apes"/>
-            <StringItem index="5" value=" "/>
+            <StringItem index="5" value="It Comes at Night"/>
           </StringArray>
         </Property>
       </Properties>
